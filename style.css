@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+    display:inline-block;
+}
+
+p{
+    color:blueviolet;
+}
+
+div style{
+    height: 50px;
+    width: 50px;
+}
+
+footer{
+    display: inline-block;
+}
+
+.box{
+    display: inline-block;
+    
+}
